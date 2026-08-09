@@ -46,16 +46,6 @@ I'm a passionate **Full-Stack Developer** from China. I love building innovative
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/CodeJeek/CyberInvasion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeJeek&repo=CyberInvasion&theme=radical" />
-  </a>
-</p>
-
----
-
 ## 📈 Recent Activity
 
 <p align="center">
